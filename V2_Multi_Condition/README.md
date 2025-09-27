@@ -15,6 +15,7 @@ To execute the script and see the test cases, run the following command from wit
 
 ```bash
 python3 main.py
+```
 
 | NL Input                                             | Expected SQL Output                                                |
 |------------------------------------------------------|--------------------------------------------------------------------|

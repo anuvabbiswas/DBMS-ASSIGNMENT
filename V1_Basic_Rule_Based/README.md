@@ -14,8 +14,9 @@ To execute the script and see the test cases, run the following command from wit
 
 ```bash
 python3 main.py
+```
 
-| NL Input                              | Expected SQL Output                               |
+| NL Input                              | Expected SQL Output                              |
 |---------------------------------------|--------------------------------------------------|
 | Show all students with marks above 80 | SELECT * FROM students WHERE marks > 80;         |
 | Find students where age is equal to 20| SELECT * FROM students WHERE age = 20;           |
