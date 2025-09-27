@@ -16,7 +16,7 @@ To execute the script and see the test cases, run the following command from wit
 python3 main.py
 ```
 
-## Example
+### Example
 
 | NL Input                              | Expected SQL Output                              |
 |---------------------------------------|--------------------------------------------------|
