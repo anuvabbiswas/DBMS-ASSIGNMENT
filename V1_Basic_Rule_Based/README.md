@@ -16,6 +16,8 @@ To execute the script and see the test cases, run the following command from wit
 python3 main.py
 ```
 
+## Example
+
 | NL Input                              | Expected SQL Output                              |
 |---------------------------------------|--------------------------------------------------|
 | Show all students with marks above 80 | SELECT * FROM students WHERE marks > 80;         |
